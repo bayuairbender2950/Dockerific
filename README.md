@@ -18,7 +18,7 @@ Run Laravel Project into Docker (Includes MySQL pre-installed)
    MYSQL_PASSWORD: Admin#1234
    MYSQL_USER: laravel_user
    ```
-   Make sure these settings match the configuration you'll use in step 5 to ensure a proper connection.
+   Make sure these settings match the configuration you'll use in step 6 to ensure a proper connection.
 
 3. **Build Application Image:**
    ```bash
